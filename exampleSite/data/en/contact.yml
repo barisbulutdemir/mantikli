@@ -1,9 +1,8 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  title : İletişim
+  subtitle : İletişim Adresleri
 
   # Contact details
   contact_list:
@@ -17,7 +16,7 @@ contact:
       info : "Fax: +880-31-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: mcsinirlitavsan@gmail.com"
 
 
   # Contact form
