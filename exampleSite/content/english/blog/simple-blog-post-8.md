@@ -9,4 +9,4 @@ description: This is meta description
 ---
 Mikemmel bir cihaz
 
-[https://app.hps.im/d7ct/b8fmjs17](https://app.hps.im/d7ct/b8fmjs17 "https://app.hps.im/d7ct/b8fmjs17")
+[https://app.hps.im/d7ct/b8fmjs17](https://app.hps.im/d7ct/b8fmjs17 "liste")
