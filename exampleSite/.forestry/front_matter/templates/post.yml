@@ -22,3 +22,5 @@ fields:
   name: description
   label: description
   description: meta description
+pages:
+- exampleSite/content/english/blog/https-app.hps.im-d7ct-922gs69o.md
